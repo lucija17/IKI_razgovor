@@ -1,0 +1,17 @@
+{
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "defaultCommandTimeout": 1200000,
+  "integrationFolder": "",
+  "retries": 1,
+  "env": {
+    "BaseUrl": "",
+    "webmail": "",
+    "url": "",
+    "UserName": "",
+    "Password": "",
+    "Recipient": "",
+    "title": "",
+    "message": ""
+  }
+}

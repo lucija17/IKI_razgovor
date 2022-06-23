@@ -1,0 +1,6 @@
+{
+  "usernameInput": "input[name='_user']",
+  "passwordInput": "input[name='_pass']",
+  "submitButton": "input[id='rcmloginsubmit']",
+  "mailButton": "a[title='webmail']:visible"
+}

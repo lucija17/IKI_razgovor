@@ -1,0 +1,10 @@
+{
+  "nameInput": "span[class='username']",
+  "newMessage": "a[class='button checkmail']",
+  "sender": "select[name='_from']",
+  "recipient": "textarea[id='_to']",
+  "title": "input[id='compose-subject']",
+  "message": "body[id='tinymce']",
+  "send": "a[id='rcmbtn109']"
+
+}
