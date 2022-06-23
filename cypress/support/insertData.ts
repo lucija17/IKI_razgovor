@@ -13,7 +13,7 @@ export function insert() {
         .should('be.visible')
         .then(cy.wrap);
 
-    iframe.clear().type('Ovo je rezultat automatiziranog testiranja!');
+    iframe.clear().type(new Date().toLocaleString('hr-HR', { timeZone: 'Europe/Zagreb' })+ ' Ovo je rezultat automatiziranog testiranja!');
     cy.get(insertData.send).click();
 
 }
